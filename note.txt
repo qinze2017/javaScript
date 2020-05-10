@@ -1,0 +1,15 @@
+Function constructor
+
+prototype : _proto_
+hasOwnProperty
+instanceof
+
+Object.create
+
+Primitives vs objects
+
+A function is an instance of the Object type;
+A function behaves like any other object;
+We can store functions in a variable;
+We can pass a function as an argument to anthoer function;
+We can return a function from a function;
